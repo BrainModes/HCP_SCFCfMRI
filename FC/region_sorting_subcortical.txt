@@ -1,0 +1,38 @@
+    Parcel 1:             CEREBELLUM_LEFT
+                          8709 voxels
+    Parcel 2:             THALAMUS_LEFT
+                          1288 voxels
+    Parcel 3:             CAUDATE_LEFT
+                          728 voxels
+    Parcel 4:             PUTAMEN_LEFT
+                          1060 voxels
+    Parcel 5:             PALLIDUM_LEFT
+                          297 voxels
+    Parcel 6:             BRAIN_STEM
+                          3472 voxels
+    Parcel 7:             HIPPOCAMPUS_LEFT
+                          764 voxels
+    Parcel 8:             AMYGDALA_LEFT
+                          315 voxels
+    Parcel 9:             ACCUMBENS_LEFT
+                          135 voxels
+    Parcel 10:            DIENCEPHALON_VENTRAL_LEFT
+                          706 voxels
+    Parcel 11:            CEREBELLUM_RIGHT
+                          9144 voxels
+    Parcel 12:            THALAMUS_RIGHT
+                          1248 voxels
+    Parcel 13:            CAUDATE_RIGHT
+                          755 voxels
+    Parcel 14:            PUTAMEN_RIGHT
+                          1010 voxels
+    Parcel 15:            PALLIDUM_RIGHT
+                          260 voxels
+    Parcel 16:            HIPPOCAMPUS_RIGHT
+                          795 voxels
+    Parcel 17:            AMYGDALA_RIGHT
+                          332 voxels
+    Parcel 18:            ACCUMBENS_RIGHT
+                          140 voxels
+    Parcel 19:            DIENCEPHALON_VENTRAL_RIGHT
+                          712 voxels
